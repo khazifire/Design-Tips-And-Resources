@@ -5,7 +5,7 @@ You can also [follow me on Twitter (@khazifire)](https://twitter.com/khazifire)
 
 
 | Label  | Topic | Link |
-| ------------- | ------------- | ------------- |
+| :------------- | ------------- | ------------- |
 | Tips  | 3 Golden Rules of UI/UX  |[Learn More](https://twitter.com/khazifire/status/1498887311483805696?s=20&t=xn35s1-KZgwMh8Vpa022Jg)|
 | Tips  | 6 tips to improve your habits as a UI/UX designer  |[Learn More](https://twitter.com/khazifire/status/1481871279334760448)|
 | Tips  | 7 Reasons developers need to become better designers? |[Learn More](https://twitter.com/khazifire/status/1425792779544760321?s=20&t=rFnXADqkoi3tP7W-o3wvDQ)|
